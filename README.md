@@ -10,8 +10,8 @@ Es importante que noten que en los códigos el puerto serial esta así: 'dev/cu.
 
 Además de estos archivos, les dejo unos links con el video para el uso de la plantilla en Processing y otro para Arduino:
 
-- Processing:
-- Arduino:
+- Processing: https://youtu.be/E2O_Qle0q00
+- Arduino: https://youtu.be/N35H6Ufa1D0
 
 
 Cordial saludo
